@@ -1,0 +1,15 @@
+.result.highlight {
+    background-color: #D9E7F7;
+    border-color: #9DB9E4;
+}
+.result {
+    font-size: 14px;
+    margin: 5px;
+    margin-top: 0px;
+    padding: 4px 8px;
+    border-radius: 2px;
+    background: #F0F7FF;
+    border: 2px solid #D7E7FF;
+    cursor: pointer;
+    /*min-height: 5em;*/
+}
